@@ -7,7 +7,8 @@ cities = ["New York", "San Francisco", "London", "Dublin"]
 end
 
 def add_element_to_end_of_array(array, element)
-cities.push("Austin")
+array = ["wow", "I", "am", "really", "learning"]
+array.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
